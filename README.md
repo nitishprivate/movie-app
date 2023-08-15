@@ -1,4 +1,2 @@
 # App Preview
-![]()
-
-https://we.tl/t-lGMVqFgHJn
+![]()(https://we.tl/t-lGMVqFgHJn)
